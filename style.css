@@ -1,0 +1,28 @@
+body{
+    background-image: url("assets/water-color-background-png-5.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-attachment: fixed;
+
+}
+
+hr{
+    background-color:black;
+    border: 0 none;
+    color: black;
+    height: 1px;
+
+}
+
+.btn{
+ background-color: purple;
+ color: white;
+ border: 0px;
+
+}
+
+footer{
+line-height: ;
+background-color: black;
+color:violet;
+}
