@@ -1,3 +1,13 @@
+*{
+    font-family: 'Play', sans-serif;
+
+}
+
+p{
+font-size: 22px;
+font-weight: bold;
+}
+
 body{
     background-image: url("assets/water-color-background-png-5.png");
     background-repeat: no-repeat;
@@ -24,5 +34,5 @@ hr{
 footer{
 line-height: ;
 background-color: black;
-color:violet;
+color: white;
 }
