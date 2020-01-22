@@ -4,14 +4,15 @@
 }
 
 p{
-font-size: 22px;
-font-weight: bold;
+font-size: 24px;
+font-weight: 525;
+line-height: 30px;
 }
 
 body{
     background-image: url("assets/water-color-background-png-5.png");
     background-repeat: no-repeat;
-    background-position: bottom left;
+    background-position: top left;
     background-attachment: fixed;
 
 }
@@ -20,19 +21,20 @@ hr{
     background-color:black;
     border: 0 none;
     color: black;
-    height: 1px;
+    height: 2px;
 
 }
 
 .btn{
  background-color: purple;
- color: white;
- border: 0px;
+ color: #f8f9fa;
+ border-color: black;
 
 }
 
 footer{
-line-height: ;
-background-color: black;
-color: white;
+background-color: #f8f9fa;
+color: black;
+
 }
+
