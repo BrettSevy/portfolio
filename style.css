@@ -3,6 +3,14 @@
 
 }
 
+
+a:link{
+color:black
+
+}
+
+
+
 p{
 font-size: 24px;
 font-weight: 525;
@@ -26,20 +34,14 @@ hr{
 }
 
 .btn{
- background-color: purple;
- color: #f8f9fa;
- border-color: black;
+ background: transparent;
+ border: none;
 
 }
 
-footer{
-background-color: #f8f9fa;
-color: black;
 
-}
-
-.nav-item{
+.fa{
 color: purple;
+margin: 10px;
 
 }
-
